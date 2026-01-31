@@ -1,0 +1,4 @@
+#!/bin/sh
+chmod +x /usr/bin/job-emailer
+chmod +x /usr/lib/job-emailer/src/cli.js
+exit 0

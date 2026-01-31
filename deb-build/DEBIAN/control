@@ -1,0 +1,9 @@
+Package: job-emailer
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: nodejs
+Maintainer: Himanshu Mamgain <himanshu@example.com>
+Description: Automated Job Emailer CLI
+  A CLI tool to apply for jobs by sending emails with attached resumes.
