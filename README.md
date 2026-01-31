@@ -14,6 +14,10 @@ A CLI tool to apply for jobs by sending emails with attached resumes.
 npm install
 ```
 
+### Linux (Debian/Ubuntu)
+For installation via .deb package or APT repository, see [Debian Installation Guide](docs/DEBIAN_INSTALL.md).
+
+
 ## Usage
 
 ### 1. Configuration (First Run)
